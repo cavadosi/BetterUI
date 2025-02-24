@@ -27,7 +27,8 @@
   
   Aquí puedes incluir imágenes o enlaces a los diagramas del proyecto (ERD, flujo de datos, arquitectura, etc.).
   
-  ![Ejemplo de Diagrama](ruta/diagrama.png)
+  ![Diagrama de clases](./public/class-diagram.png)
+  ![Diagrama de implementación](./public/class-diagram2.png)
   
 </details>
 
@@ -50,26 +51,15 @@
 <details>
   <summary>👀 Logo</summary>
   
-  ![Logo](./public//logo.png)
+  ![Logo](./public/logo.png)
   
 </details>
 
 <details>
   <summary>🔗 Funcionalidades Web</summary>
   
-  - ✅ Funcionalidad 1
-  - ✅ Funcionalidad 2
-  - ✅ Funcionalidad 3
+  - ✅ Manual de instalación y uso de la libreria para los diferentes lenguajes
+  - ✅ Showcase de los diferentes componentes
   
 </details>
-
-<details>
-  <summary>🚀 Roadmap / Trello / Gantt</summary>
-  
-  - [Enlace al Roadmap](#)
-  - [Enlace a Trello](#)
-  - [Enlace al diagrama de Gantt](#)
-  
-</details>
-
 ---
